@@ -1,2 +1,2 @@
-#Pagina Web para votacion electronica dentro de la Universidad 
+#Sistema Web para votacion electronica dentro de la Universidad 
 
